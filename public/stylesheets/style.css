@@ -1,0 +1,31 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.clr {
+	clear:both;
+}
+#container {
+	position: absolute;
+}
+#chat-window {
+	border: 1px solid #ccc;
+	float: left;
+	height: 400px;
+	margin: 0 20px 10px 0;
+	width: 800px;
+}
+
+#side-bar {
+	border: 1px solid #ccc;
+	float: right;
+	height: 400px;
+	width: 200px;
+}
+#chat-input {
+	width: 500px;
+}
